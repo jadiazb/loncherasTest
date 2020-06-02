@@ -1,10 +1,10 @@
 {
-  "name": "loncheras",
+  "name": "loncherasAPP UPC 2020",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "node server.js",
+    "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -19,6 +19,7 @@
     "@angular/platform-browser": "~9.0.6",
     "@angular/platform-browser-dynamic": "~9.0.6",
     "@angular/router": "~9.0.6",
+    "express": "^4.17.1",
     "ngx-mask": "^9.1.2",
     "ngx-spinner": "^9.0.2",
     "rxjs": "~6.5.4",
