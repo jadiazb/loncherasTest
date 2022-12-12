@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.0.6",
     "@angular/platform-browser-dynamic": "~9.0.6",
     "@angular/router": "~9.0.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ngx-mask": "^9.1.2",
     "ngx-spinner": "^9.0.2",
     "rxjs": "~6.5.4",
